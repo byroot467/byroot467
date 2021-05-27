@@ -1,8 +1,1 @@
-- 👋 Hi, I’m @byroot
-- 👀 I’m interested in learning new things and in my opinion learning is a quest that never ends, a while ago I lost my job so I deceided to take advantage of my free time and start learning cyber security, feedbacks are always welcomed, I am currently taking social psychologie and coding courses and ready to collaborate in interesting projects.
-- 📫 You can reach me out on my e mail at the moment
-and please don't hesitate to contact me in case my repository needs different license or to fix any mistake 
-<!---
-byroot467/byroot467 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a Developer from Lebanon, I recently graduated as a journalist and my main goal is to fight and expose corruption! unfortunately my country is suffering, and I believe that each one has his roll to cure this cancer! I am passionate about learning especially OSINT tools and new technology. I can work well on my own initiative and as part of a team, focus in a position with full responsibility and honesty. My main strength is adaptability, and the determination to get the job done, develops a new experience. Learning something new from every experience because there is always room for self improvement both personally and professionally.
